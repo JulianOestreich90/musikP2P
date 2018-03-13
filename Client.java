@@ -16,7 +16,8 @@ import java.util.logging.Logger;
  * Ports 50002, 50005 und 50007.
  * 
  * @author Julian Oestreich   
- 
+ */
+
 public class Client {
   
   /**
