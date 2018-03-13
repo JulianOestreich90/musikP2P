@@ -15,8 +15,8 @@ import java.util.logging.Logger;
  * Erzeugt Socket für Verbindung mit anderen Peers auf den 
  * Ports 50002, 50005 und 50007.
  * 
- * @author Julian Oestreich   Matr.-Nr.: 3746571  jo87casi@studserv.uni-leipzig.de
- */
+ * @author Julian Oestreich   
+ 
 public class Client {
   
   /**
