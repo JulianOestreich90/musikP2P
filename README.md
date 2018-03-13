@@ -1,6 +1,4 @@
 # musikP2P
-p2p paradigm programm for a communication system project
 
-
-Peer zum Abgleichen von Musikdaten.
- * erzeugt Socket und Protokoll für Verbindung mit anderen Peers auf den Ports 50003, 50007 und 50008.
+Peer to square music data with other peers
+ * creates a socket and a protocoll for connections with other Peers on Ports 50003, 50007 and 50008.
